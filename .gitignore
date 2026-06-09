@@ -1,0 +1,33 @@
+# Eclipse files
+.project
+.classpath
+.settings/
+
+# Build output
+build/
+target/
+out/
+
+
+# Maven (if used)
+*.war
+*.jar
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE configs
+.metadata/
+
+# Temporary files
+*.tmp
+*.bak
+
+# Optional (if you use local config files)
+.env
+config.properties
+application.properties
