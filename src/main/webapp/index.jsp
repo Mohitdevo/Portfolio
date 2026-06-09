@@ -109,7 +109,7 @@
                         <h3>Tic-Tac-Toe game</h3>
                         <p>Developed an interactive Tic Tac Toe game with responsive gameplay logic, win detection, and restart functionality to enhance user experience.
                             </p>
-                        <a href="https://github.com/Mohitdevo/tic-tac-toe-js">🔗</a>
+                        <a href="https://github.com/Mohitdevo/tic-tac-toe-js" target="_blank">🔗</a>
                     </div>
                 </div>
                 <div class="work">
@@ -125,7 +125,7 @@
                     <div class="layer">
                         <h3>Clinic BI</h3>
                         <p>Built a Clinic Billing System using Java, JSP, Servlets, JDBC, and MySQL for patient registration, bill management, and efficient inventory data handling.</p>
-                        <a href="https://clinicbi-system.onrender.com">🔗</a>
+                        <a href="https://clinicbi-system.onrender.com" target="_blank">🔗</a>
                     </div>
                 </div>
             </div>
