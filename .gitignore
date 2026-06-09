@@ -9,10 +9,6 @@ target/
 out/
 
 
-# Maven (if used)
-*.war
-*.jar
-
 # Logs
 *.log
 
